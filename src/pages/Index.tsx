@@ -25,7 +25,7 @@ const DONATIONS = [
     name: "Лучник", 
     price: "100₽",
     color: "from-green-600 to-green-800",
-    privileges: []
+    privileges: ["Специальная сфера"]
   },
   { 
     id: 4, 
