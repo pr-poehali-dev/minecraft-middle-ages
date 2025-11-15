@@ -11,70 +11,70 @@ const DONATIONS = [
     name: "Рыцарь", 
     price: "20₽",
     color: "from-gray-600 to-gray-800",
-    privileges: ["Приват территории", "Доступ к /kit knight", "Цветной ник"]
+    privileges: ["Приват территории", "Цветной ник"]
   },
   { 
     id: 2, 
     name: "Воин", 
-    price: "199₽",
+    price: "50₽",
     color: "from-blue-600 to-blue-800",
-    privileges: ["Все от Рыцаря", "Доступ к /kit warrior", "Увеличенный инвентарь"]
+    privileges: ["Все от Рыцаря", "Увеличенный инвентарь"]
   },
   { 
     id: 3, 
     name: "Лучник", 
-    price: "299₽",
+    price: "100₽",
     color: "from-green-600 to-green-800",
-    privileges: ["Все от Воина", "Доступ к /kit archer", "Особые стрелы"]
+    privileges: ["Все от Воина", "Особые стрелы"]
   },
   { 
     id: 4, 
     name: "Садник", 
-    price: "399₽",
+    price: "150₽",
     color: "from-emerald-600 to-emerald-800",
-    privileges: ["Все от Лучника", "Ускоренный рост растений", "/kit gardener"]
+    privileges: ["Все от Лучника", "Ускоренный рост растений"]
   },
   { 
     id: 5, 
     name: "Фермер", 
-    price: "499₽",
+    price: "200₽",
     color: "from-amber-600 to-amber-800",
-    privileges: ["Все от Садника", "Автоматическая ферма", "/kit farmer"]
+    privileges: ["Все от Садника", "Автоматическая ферма"]
   },
   { 
     id: 6, 
     name: "Солдат", 
-    price: "699₽",
+    price: "220₽",
     color: "from-red-600 to-red-800",
-    privileges: ["Все от Фермера", "Увеличенный урон", "/kit soldier"]
+    privileges: ["Все от Фермера", "Увеличенный урон"]
   },
   { 
     id: 7, 
     name: "Принц", 
     price: "999₽",
     color: "from-purple-600 to-purple-800",
-    privileges: ["Все от Солдата", "Корона в игре", "/kit prince", "Особые эффекты"]
+    privileges: ["Все от Солдата", "Корона в игре", "Особые эффекты"]
   },
   { 
     id: 8, 
     name: "Король", 
     price: "1499₽",
     color: "from-yellow-500 to-yellow-700",
-    privileges: ["Все от Принца", "Трон в спавне", "/kit king", "Королевская броня"]
+    privileges: ["Все от Принца", "Трон в спавне", "Королевская броня"]
   },
   { 
     id: 9, 
     name: "Повелитель", 
     price: "2499₽",
     color: "from-indigo-600 to-indigo-900",
-    privileges: ["Все от Короля", "Особые команды", "/kit lord", "Магические способности"]
+    privileges: ["Все от Короля", "Особые команды", "Магические способности"]
   },
   { 
     id: 10, 
     name: "Бог", 
     price: "4999₽",
     color: "from-amber-400 via-yellow-500 to-amber-600",
-    privileges: ["Все от Повелителя", "Бессмертие раз в час", "/kit god", "Божественная аура", "Уникальный титул"]
+    privileges: ["Все от Повелителя", "Бессмертие раз в час", "Божественная аура", "Уникальный титул"]
   }
 ];
 
