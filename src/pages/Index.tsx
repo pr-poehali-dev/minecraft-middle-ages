@@ -80,9 +80,7 @@ const DONATIONS = [
 
 const ADMINS = [
   { name: "MrAd", role: "Владелец", status: "online" },
-  { name: "OsnAdmin", role: "Главный Администратор", status: "online" },
-  { name: "RoyalModerator", role: "Модератор", status: "offline" },
-  { name: "CastleBuilder", role: "Строитель", status: "online" }
+  { name: "OsnAdmin", role: "Главный Администратор", status: "online" }
 ];
 
 const Index = () => {
