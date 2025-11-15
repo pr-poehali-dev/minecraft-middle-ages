@@ -18,7 +18,7 @@ const DONATIONS = [
     name: "Воин", 
     price: "50₽",
     color: "from-blue-600 to-blue-800",
-    privileges: []
+    privileges: ["Специальная зелька"]
   },
   { 
     id: 3, 
