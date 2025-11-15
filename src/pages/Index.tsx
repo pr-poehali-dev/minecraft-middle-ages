@@ -79,7 +79,7 @@ const DONATIONS = [
 ];
 
 const ADMINS = [
-  { name: "LordCommander", role: "Владелец", status: "online" },
+  { name: "MrAd", role: "Владелец", status: "online" },
   { name: "KnightGuardian", role: "Главный Администратор", status: "online" },
   { name: "RoyalModerator", role: "Модератор", status: "offline" },
   { name: "CastleBuilder", role: "Строитель", status: "online" }
