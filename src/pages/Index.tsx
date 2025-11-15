@@ -11,7 +11,7 @@ const DONATIONS = [
     name: "Рыцарь", 
     price: "20₽",
     color: "from-gray-600 to-gray-800",
-    privileges: ["Приват территории", "Цветной ник"]
+    privileges: ["Приват территории", "Цветной ник", "Специальная зелька"]
   },
   { 
     id: 2, 
